@@ -488,6 +488,18 @@ main{
     .feeling-btn{
         display: none!important;
     }
+    .reactbutton{
+        width: 50px;
+        gap: 0px;
+        font-size: 10px;
+        padding: 0;
+    }
+    .reactbutton i{
+        font-size: 15px;
+    }
+    .reactbutton span{
+        font-size: 12px;
+    }
 }
 @media (max-width:796px) {
     .menuitems{
