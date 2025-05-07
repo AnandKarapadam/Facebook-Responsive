@@ -496,9 +496,13 @@ main{
     }
     .reactbutton i{
         font-size: 15px;
+        margin-right:4px;
     }
     .reactbutton span{
-        font-size: 12px;
+        font-size: 13px;
+    }
+    .likeshare{
+        padding:0 8px;
     }
 }
 @media (max-width:796px) {
